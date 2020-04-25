@@ -10,7 +10,7 @@ public class Test1 {
 
         System.out.println ("我是修改后的dev");
 
-        System.out.println ("我是master主分支");
+        System.out.println ("我是dev分支");
 
     }
 
