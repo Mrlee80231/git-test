@@ -8,9 +8,9 @@
 public class Test1 {
     public static void main(String[] args) {
 
-        System.out.println ("我是修改后的dev");
+        System.out.println ("我是master");
 
-        System.out.println ("我是dev分支");
+
 
     }
 
