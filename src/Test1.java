@@ -7,15 +7,9 @@
  */
 public class Test1 {
     public static void main(String[] args) {
-        System.out.println ("我是master");
-        System.out.println ("我是master");
-        System.out.println ("我是mas        ter");
-        System.out.println ("我是de                           VVVv分支");
-        System.out.println ("vvvvvvvv");
-
-
-        System.out.println ("ddddeeeeevvvv");
-
+        System.out.println ("mmmmm");
+        System.out.println ("sssss");
+        System.out.println ("ttttt");
 
     }
 
