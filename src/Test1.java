@@ -17,7 +17,7 @@ public class Test1 {
         System.out.println ("我是dev分支");
         System.out.println ("我是dev分支");
         System.out.println ("我是dev分支");
-        System.out.println ("我是@@@@@@@@@@@@分支");
+        System.out.println ("我是BBBBBBB分支");
 
     }
 
