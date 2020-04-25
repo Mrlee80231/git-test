@@ -21,6 +21,11 @@ public class Test1 {
         System.out.println ("我是dev      分支的代码");
         System.out.println ("我是dev      分支的代码");
         System.out.println ("hello");
+        System.out.println ("我是master主分支");
+        System.out.println ("我是master主分支");
+        System.out.println ("我是master主分支");
+        System.out.println ("我是master主分支");
+        System.out.println ("我是master主分支");
 
     }
 
