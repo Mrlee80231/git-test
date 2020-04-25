@@ -13,7 +13,7 @@ public class Test1 {
         System.out.println ("我是修改后的Test1");
         System.out.println ("我是修改后的Test1");
         System.out.println ("我是修改后的Test1");
-        System.out.println ("我是dev      分支的代码");
+        System.out.println ("我是公司另外一个开发者在dev分支提交的代码");
 
     }
 
