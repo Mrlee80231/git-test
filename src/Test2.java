@@ -10,6 +10,11 @@ public class Test2 {
 
 
         System.out.println ("我是dev");
+
+
+        System.out.println ("324");
+
+
     }
 
 }
