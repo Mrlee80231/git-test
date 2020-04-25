@@ -7,16 +7,8 @@
  */
 public class Test1 {
     public static void main(String[] args) {
+        System.out.println ("我是dev分支");
 
-
-
-        System.out.println ("我是d       ev分支");
-        System.out.println ("我是dev分支");
-        System.out.println ("我是dev分支");
-        System.out.println ("我是dev分支");
-        System.out.println ("我是dev分支");
-        System.out.println ("我是dev分支");
-        System.out.println ("我是AAAAAAAA分支");
 
     }
 
