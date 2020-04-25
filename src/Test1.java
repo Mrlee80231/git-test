@@ -14,6 +14,11 @@ public class Test1 {
         System.out.println ("我是修改后的Test1");
         System.out.println ("我是修改后的Test1");
         System.out.println ("我是修改后的Test1");
+        System.out.println ("我是master主分支");
+        System.out.println ("我是master主分支");
+        System.out.println ("我是master主分支");
+        System.out.println ("我是master主分支");
+        System.out.println ("我是master主分支");
 
     }
 
