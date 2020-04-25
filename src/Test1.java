@@ -8,7 +8,7 @@
 public class Test1 {
     public static void main(String[] args) {
 
-        System.out.println ("我是Test1");
+        System.out.println ("我是修改后的Test1");
 
     }
 
